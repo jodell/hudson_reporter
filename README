@@ -1,0 +1,6 @@
+
+20090714
+jeffrey.odell at gmail.com
+
+Provides some ruby glue to post results back to an external job that's 
+setup by a Hudson server.
